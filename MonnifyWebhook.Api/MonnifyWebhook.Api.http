@@ -1,0 +1,6 @@
+@MonnifyWebhook.Api_HostAddress = http://localhost:5014
+
+GET {{MonnifyWebhook.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

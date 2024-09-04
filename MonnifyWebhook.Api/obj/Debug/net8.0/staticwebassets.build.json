@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LL2Y2l5judi5vl3i22KE4xVvNdwv1Vzwc2O/CvXE0KM=",
+  "Source": "MonnifyWebhook.Api",
+  "BasePath": "_content/MonnifyWebhook.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
