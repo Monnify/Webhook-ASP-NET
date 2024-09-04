@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MonnifyWebhook.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e113acefc36d4d0c00a80aa0102e33f4cef1690f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MonnifyWebhook.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MonnifyWebhook.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
